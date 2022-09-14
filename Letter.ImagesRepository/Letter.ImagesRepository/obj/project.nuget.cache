@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igzMj4TULw/eeHZLbPo3P1OQXQJJ18crSyln3leVbTxRHQs62WPwkgTmHSbO/EjnN/6qIEEWFolayiMdVm2BTw==",
+  "dgSpecHash": "PlH2Uv7tw4X2c2OeTUxVHiiveB+M6cdwHVyFc3AnXIPI87z74/W/kra+uLzZW5Hn4bcv2RIA4x5syES0zwbabw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nik-p\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj",
+  "projectFilePath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nik-p\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\nik-p\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

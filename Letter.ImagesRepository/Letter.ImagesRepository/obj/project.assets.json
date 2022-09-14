@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nik-p\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj",
+      "projectUniqueName": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj",
       "projectName": "Letter.ImagesRepository",
-      "projectPath": "C:\\Users\\nik-p\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj",
+      "projectPath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj",
       "packagesPath": "C:\\Users\\nik-p\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nik-p\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\obj\\",
+      "outputPath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nik-p\\AppData\\Roaming\\NuGet\\NuGet.Config"
