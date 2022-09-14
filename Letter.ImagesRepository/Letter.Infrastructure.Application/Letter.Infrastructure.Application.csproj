@@ -6,4 +6,16 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.2.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Abstractions" />
+      <Folder Include="Domains\Entities" />
+      <Folder Include="Domains\Requests" />
+      <Folder Include="Domains\Responses" />
+      <Folder Include="Handlers" />
+    </ItemGroup>
+
 </Project>

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IAn7L7oqEaxAj+bkb9kwYyyHWC8j6j2+kfPaypZc5zf9HnjQEDywgP15hifDpAgvGFp1k1sHIcuc5ja/Pae3Sw==",
+  "dgSpecHash": "qGzMAV5MkK187et5Avvt8daydrdd3ngg7bmABHjoUDDGRagWP5bgaO7nQjKExn5SLykAKTBkcKYb43+95pXy8A==",
   "success": true,
   "projectFilePath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nik-p\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nik-p\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512"
+  ],
   "logs": []
 }

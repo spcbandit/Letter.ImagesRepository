@@ -6,17 +6,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d1a6995-8125-4e8a-a85a-567d51ca80db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Letter.ImagesRepository/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Letter.ImagesRepository/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/Letter.ImagesRepository.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/Letter.ImagesRepository.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/WeatherForecast.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Letter.ImagesRepository.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Letter.ImagesRepository.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/Letter.Infrastructure.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/Letter.Infrastructure.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Letter.Infrastructure.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Letter.Infrastructure.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/Letter.Infrastructure.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/Letter.Infrastructure.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Letter.Infrastructure.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Letter.Infrastructure.Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/Letter.Infrastructure.Database.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/Letter.Infrastructure.Database.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Letter.Infrastructure.Database.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Letter.Infrastructure.Database.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663152380092</updated>
       <workItem from="1663152383457" duration="411000" />
-      <workItem from="1663152820829" duration="1027000" />
+      <workItem from="1663152820829" duration="4650000" />
     </task>
     <servers />
   </component>
