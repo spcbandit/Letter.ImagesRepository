@@ -1,4 +1,6 @@
 ﻿using System.ComponentModel;
+using Letter.Infrastructure.Application.Domains.Requests;
+using Letter.Infrastructure.Application.Domains.Responses;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -22,15 +24,16 @@ public class Controller:ControllerBase
 
     [HttpPost]
     [Route("SaveImage")]
-    [SwaggerResponse(StatusCodes.Status200OK, "Сохранить ", typeof())]
-    [SwaggerResponse(StatusCodes.Status400BadRequest, "Save = fail", typeof())]
-    public async Task<IActionResult> SavePicture([FromForm] SaveImageRequest request)
+    [SwaggerResponse(StatusCodes.Status200OK, "Сохранить ", typeof(SaveImageResponse))]
+    [SwaggerResponse(StatusCodes.Status400BadRequest, "Save = fail", typeof(SaveImageResponse))]
+    public async Task<JsonResult> SavePicture([FromForm] SaveImageRequest request)
     {
+        Request.ContentType = "multipart/form-data";
         var resp = await _mediator.Send(request);
-        if (resp.success)
-            return Ok(resp);
+        if (resp.Success)
+            return new JsonResult(Ok(resp));
         else
-            return BadRequest(resp);
+            return new JsonResult(BadRequest(resp));
 
     }
 
