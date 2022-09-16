@@ -1,5 +1,6 @@
 using System.Text.Json.Serialization;
 using Letter.Infrastructure.Application;
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,7 +20,15 @@ builder.Services.AddApplication();
 
 builder.Services.AddControllers().AddJsonOptions( o =>o.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(swagger =>
+{
+    swagger.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Version = "v1",
+        Title = "Letter.ImagesRepository",
+        Description = "Micro-service for images"
+    }); 
+});
 
 var app = builder.Build();
 
