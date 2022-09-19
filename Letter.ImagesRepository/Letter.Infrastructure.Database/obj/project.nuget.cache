@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "b36JF7JY3bd7Gcc5Z1xLFrABFIV552g/E/cu5GdFLAm1GRN2fosTMWgaRADX8bC2x7kY4jQiW2DA4tRTRtU+JA==",
+  "dgSpecHash": "x+D5Shq0dBV5W6H8e09OtKx5zel5xI8UJxu2tu+kVkzcA6NqwY8ve9kDdubuZdUwfvTg9a5t+oi80joe3iSqGg==",
   "success": true,
-  "projectFilePath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj",
+  "projectFilePath": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nik-p\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\nik-p\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512"
+    "C:\\Users\\kosty\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kosty\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }

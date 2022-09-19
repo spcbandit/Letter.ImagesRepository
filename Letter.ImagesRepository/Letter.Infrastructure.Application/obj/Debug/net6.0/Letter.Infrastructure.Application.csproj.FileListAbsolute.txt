@@ -1,0 +1,12 @@
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\bin\Debug\net6.0\Letter.Infrastructure.Application.deps.json
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\bin\Debug\net6.0\Letter.Infrastructure.Application.dll
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\bin\Debug\net6.0\ref\Letter.Infrastructure.Application.dll
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\bin\Debug\net6.0\Letter.Infrastructure.Application.pdb
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\obj\Debug\net6.0\Letter.Infrastructure.Application.csproj.AssemblyReference.cache
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\obj\Debug\net6.0\Letter.Infrastructure.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\obj\Debug\net6.0\Letter.Infrastructure.Application.AssemblyInfoInputs.cache
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\obj\Debug\net6.0\Letter.Infrastructure.Application.AssemblyInfo.cs
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\obj\Debug\net6.0\Letter.Infrastructure.Application.csproj.CoreCompileInputs.cache
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\obj\Debug\net6.0\Letter.Infrastructure.Application.dll
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\obj\Debug\net6.0\ref\Letter.Infrastructure.Application.dll
+C:\Users\kosty\RiderProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\obj\Debug\net6.0\Letter.Infrastructure.Application.pdb

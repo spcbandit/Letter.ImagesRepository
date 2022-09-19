@@ -6,20 +6,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d1a6995-8125-4e8a-a85a-567d51ca80db" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Letter.ImagesRepository/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Letter.ImagesRepository/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Letter.ImagesRepository/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Letter.ImagesRepository/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/ref/Letter.ImagesRepository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/ref/Letter.ImagesRepository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Letter.ImagesRepository.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Letter.ImagesRepository.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Letter.ImagesRepository.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Letter.ImagesRepository.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Letter.Infrastructure.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Letter.Infrastructure.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Letter.Infrastructure.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Letter.Infrastructure.Api.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/Letter.Infrastructure.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/Letter.Infrastructure.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Letter.Infrastructure.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Letter.Infrastructure.Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Letter.Infrastructure.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Letter.Infrastructure.Application.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Letter.Infrastructure.Database.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Letter.Infrastructure.Database.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Letter.Infrastructure.Database.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Letter.Infrastructure.Database.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/44cad551704bc7dae78cc7717b8b9f9313582aa8e67a6585a69de0cc33b4b8/IServiceCollection.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/caa830ae30d4e1bc9056e98a8b2048e6c99fffeb5c6c1ee24e90a5f9367e70ca/MvcCoreMvcBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,15 +74,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "SolutionBuilderGeneralOptionsPage",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Letter.ImagesRepository" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Letter.ImagesRepository/Letter.ImagesRepository.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value="net6.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="Letter.ImagesRepository" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Launch Settings Profile.Letter.ImagesRepository" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,12 +112,16 @@
       <workItem from="1663152820829" duration="4650000" />
       <workItem from="1663212680645" duration="9945000" />
       <workItem from="1663300236946" duration="5902000" />
+      <workItem from="1663390013162" duration="560000" />
+      <workItem from="1663391026963" duration="1926000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

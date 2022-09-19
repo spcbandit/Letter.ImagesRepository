@@ -1,36 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj": {}
+    "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj": {}
   },
   "projects": {
-    "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj": {
+    "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj",
+        "projectUniqueName": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj",
         "projectName": "Letter.ImagesRepository",
-        "projectPath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj",
-        "packagesPath": "C:\\Users\\nik-p\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\obj\\",
+        "projectPath": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository.csproj",
+        "packagesPath": "C:\\Users\\kosty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.ImagesRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nik-p\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj": {
-                "projectPath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj"
+              "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj": {
+                "projectPath": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj"
               },
-              "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj": {
-                "projectPath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj"
+              "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj": {
+                "projectPath": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj"
               }
             }
           }
@@ -80,26 +82,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj": {
+    "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj",
+        "projectUniqueName": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj",
         "projectName": "Letter.Infrastructure.Application",
-        "projectPath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj",
-        "packagesPath": "C:\\Users\\nik-p\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\obj\\",
+        "projectPath": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\Letter.Infrastructure.Application.csproj",
+        "packagesPath": "C:\\Users\\kosty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nik-p\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -158,30 +162,35 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj": {
+    "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj",
+        "projectUniqueName": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj",
         "projectName": "Letter.Infrastructure.Database",
-        "projectPath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj",
-        "packagesPath": "C:\\Users\\nik-p\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\obj\\",
+        "projectPath": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\Letter.Infrastructure.Database.csproj",
+        "packagesPath": "C:\\Users\\kosty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kosty\\RiderProjects\\Letter.ImagesRepository\\Letter.ImagesRepository\\Letter.Infrastructure.Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nik-p\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -216,11 +225,14 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

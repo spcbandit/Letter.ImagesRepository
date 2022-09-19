@@ -17,8 +17,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Abstractions" />
-      <Folder Include="Handlers" />
+      <Folder Include="Domains\Handlers" />
     </ItemGroup>
 
 </Project>

@@ -15,11 +15,9 @@ namespace Letter.Infrastructure.Api;
 public class Controller:ControllerBase
 {
     private readonly IMediator _mediator;
-    private readonly IConfiguration _configuration;
-    public Controller(IMediator mediator, IConfiguration configuration)
+    public Controller(IMediator mediator)
     {
         _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
-        _configuration = configuration;
     }
 
     [HttpPost]
