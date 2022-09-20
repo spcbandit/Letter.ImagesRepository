@@ -6,13 +6,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d1a6995-8125-4e8a-a85a-567d51ca80db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Letter.ImagesRepository/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Letter.ImagesRepository/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/ConstResource.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/ConstResource.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/Domains/Requests/GetImageRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/Domains/Responses/GetImageResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/Handlers/GetImageHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/Handlers/SaveImageHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/Context/ImageContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/Repositories/ImagesRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/ServiceCollection.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Letter.ImagesRepository/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Letter.ImagesRepository/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/Letter.ImagesRepository.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/Letter.ImagesRepository.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.ImagesRepository.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.Infrastructure.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.Infrastructure.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.Infrastructure.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.Infrastructure.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.Infrastructure.Database.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.Infrastructure.Database.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.Infrastructure.Database.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/Letter.Infrastructure.Database.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/bin/Debug/net6.0/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.assets.cache" afterDir="false" />
@@ -24,6 +40,7 @@
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/Letter.ImagesRepository.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/ref/Letter.ImagesRepository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/ref/Letter.ImagesRepository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/refint/Letter.ImagesRepository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Debug/net6.0/refint/Letter.ImagesRepository.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Letter.ImagesRepository.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Letter.ImagesRepository.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Letter.ImagesRepository.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/Letter.ImagesRepository.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/project.assets.json" afterDir="false" />
@@ -32,27 +49,61 @@
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.ImagesRepository/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.ImagesRepository/obj/staticwebassets.pack.sentinel" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/Letter.Infrastructure.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/Letter.Infrastructure.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Api.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Api.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Database.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Database.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Database.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/bin/Debug/net6.0/Letter.Infrastructure.Database.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/Letter.Infrastructure.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/ref/Letter.Infrastructure.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Debug/net6.0/ref/Letter.Infrastructure.Api.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Letter.Infrastructure.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Letter.Infrastructure.Api.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Letter.Infrastructure.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/Letter.Infrastructure.Api.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/Domains/Abstractions/IRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/Domains/Abstractions/IRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/Domains/Entities/Image.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/Domains/Entities/Image.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/Letter.Infrastructure.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/Letter.Infrastructure.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/bin/Debug/net6.0/Letter.Infrastructure.Application.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/bin/Debug/net6.0/Letter.Infrastructure.Application.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/bin/Debug/net6.0/Letter.Infrastructure.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/bin/Debug/net6.0/Letter.Infrastructure.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/bin/Debug/net6.0/Letter.Infrastructure.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/bin/Debug/net6.0/Letter.Infrastructure.Application.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/Letter.Infrastructure.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/ref/Letter.Infrastructure.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Debug/net6.0/ref/Letter.Infrastructure.Application.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Letter.Infrastructure.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Letter.Infrastructure.Application.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Letter.Infrastructure.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/Letter.Infrastructure.Application.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/Letter.Infrastructure.Database.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/Letter.Infrastructure.Database.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/bin/Debug/net6.0/Letter.Infrastructure.Database.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/bin/Debug/net6.0/Letter.Infrastructure.Database.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/bin/Debug/net6.0/Letter.Infrastructure.Database.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/bin/Debug/net6.0/Letter.Infrastructure.Database.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/bin/Debug/net6.0/Letter.Infrastructure.Database.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/bin/Debug/net6.0/Letter.Infrastructure.Database.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/Letter.Infrastructure.Database.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/ref/Letter.Infrastructure.Database.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Debug/net6.0/ref/Letter.Infrastructure.Database.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Letter.Infrastructure.Database.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Letter.Infrastructure.Database.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Letter.Infrastructure.Database.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/Letter.Infrastructure.Database.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Letter.Infrastructure.Database/obj/project.assets.json" afterDir="false" />
@@ -65,6 +116,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/44cad551704bc7dae78cc7717b8b9f9313582aa8e67a6585a69de0cc33b4b8/IServiceCollection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9d4f4ac7db6d2c5d183ab2d92602280ed4349fd6e6a1b6313546b3d01fdab5/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/c6354d55b4c1fdbe22621ea48185af62cdeadcf4f28d9ed0890dfdf36c6/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/caa830ae30d4e1bc9056e98a8b2048e6c99fffeb5c6c1ee24e90a5f9367e70ca/MvcCoreMvcBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d5f92893b4e362502fc4e02cf758f9ed02fdab36fa5d36b75d31416bdb3596/ControllerEndpointRouteBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -74,10 +132,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "XThreadsFramesViewSplitterKey": "0.47078463"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="Letter.ImagesRepository" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Letter.ImagesRepository/Letter.ImagesRepository.csproj" />
@@ -125,6 +184,103 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Letter.Infrastructure.Application/Handlers/SaveImageHandler.cs</url>
+          <line>24</line>
+          <properties documentPath="C:\WorkProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\Handlers\ImageHandler.cs" initialLine="22" containingFunctionPresentation="method 'Handle'">
+            <startOffsets>
+              <option value="922" />
+            </startOffsets>
+            <endOffsets>
+              <option value="923" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Letter.Infrastructure.Application/Handlers/SaveImageHandler.cs</url>
+          <line>23</line>
+          <properties documentPath="C:\WorkProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\Handlers\ImageHandler.cs" initialLine="21" containingFunctionPresentation="method 'Handle'">
+            <startOffsets>
+              <option value="878" />
+            </startOffsets>
+            <endOffsets>
+              <option value="913" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Letter.Infrastructure.Application/Handlers/SaveImageHandler.cs</url>
+          <line>39</line>
+          <properties documentPath="C:\WorkProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\Handlers\ImageHandler.cs" initialLine="34" containingFunctionPresentation="method 'Handle'">
+            <startOffsets>
+              <option value="1482" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1532" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Letter.Infrastructure.Application/Handlers/SaveImageHandler.cs</url>
+          <line>28</line>
+          <properties documentPath="C:\WorkProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\Handlers\ImageHandler.cs" initialLine="25" containingFunctionPresentation="method 'Handle'">
+            <startOffsets>
+              <option value="1112" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1462" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Letter.Infrastructure.Application/Handlers/SaveImageHandler.cs</url>
+          <line>25</line>
+          <properties documentPath="C:\WorkProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\Handlers\ImageHandler.cs" initialLine="25" containingFunctionPresentation="method 'Handle'">
+            <startOffsets>
+              <option value="936" />
+            </startOffsets>
+            <endOffsets>
+              <option value="973" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Letter.Infrastructure.Application/Handlers/SaveImageHandler.cs</url>
+          <line>26</line>
+          <properties documentPath="C:\WorkProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\Handlers\ImageHandler.cs" initialLine="26" containingFunctionPresentation="method 'Handle'">
+            <startOffsets>
+              <option value="986" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1048" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Letter.Infrastructure.Application/Handlers/SaveImageHandler.cs</url>
+          <line>27</line>
+          <properties documentPath="C:\WorkProjects\Letter.ImagesRepository\Letter.ImagesRepository\Letter.Infrastructure.Application\Handlers\ImageHandler.cs" initialLine="27" containingFunctionPresentation="method 'Handle'">
+            <startOffsets>
+              <option value="1065" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1099" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -9,9 +9,9 @@ using Swashbuckle.AspNetCore.Annotations;
 
 namespace Letter.Infrastructure.Api;
 [ApiController]
-[Route("/")]
+[Route("/image")]
 [DisplayName("Работа с изображениями")]
-[Produces("application/octet-stream")]
+[Produces("application/json")]
 public class Controller:ControllerBase
 {
     private readonly IMediator _mediator;
@@ -25,6 +25,20 @@ public class Controller:ControllerBase
     [SwaggerResponse(StatusCodes.Status200OK, "Сохранить ", typeof(SaveImageResponse))]
     [SwaggerResponse(StatusCodes.Status400BadRequest, "Save = fail", typeof(SaveImageResponse))]
     public async Task<JsonResult> SavePicture([FromForm] SaveImageRequest request)
+    {
+        Request.ContentType = "multipart/form-data";
+        var resp = await _mediator.Send(request);
+        if (resp.Success)
+            return new JsonResult(Ok(resp));
+        else
+            return new JsonResult(BadRequest(resp));
+
+    }
+    [HttpGet]
+    [Route("GetImage")]
+    [SwaggerResponse(StatusCodes.Status200OK, "Сохранить ", typeof(GetImageResponse))]
+    [SwaggerResponse(StatusCodes.Status400BadRequest, "Save = fail", typeof(GetImageResponse))]
+    public async Task<JsonResult> GetPicture([FromQuery] GetImageRequest request)
     {
         Request.ContentType = "multipart/form-data";
         var resp = await _mediator.Send(request);
