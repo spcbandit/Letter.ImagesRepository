@@ -38,14 +38,14 @@ public class Controller:ControllerBase
     [Route("GetImage")]
     [SwaggerResponse(StatusCodes.Status200OK, "Сохранить ", typeof(GetImageResponse))]
     [SwaggerResponse(StatusCodes.Status400BadRequest, "Save = fail", typeof(GetImageResponse))]
-    public async Task<JsonResult> GetPicture([FromQuery] GetImageRequest request)
+    public async Task<IActionResult> GetPicture([FromQuery] GetImageRequest request)
     {
-        Request.ContentType = "multipart/form-data";
         var resp = await _mediator.Send(request);
+
         if (resp.Success)
-            return new JsonResult(Ok(resp));
+            return resp.Image;
         else
-            return new JsonResult(BadRequest(resp));
+            return BadRequest(resp);
 
     }
 

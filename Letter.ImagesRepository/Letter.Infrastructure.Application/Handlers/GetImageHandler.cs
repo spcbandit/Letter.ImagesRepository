@@ -2,6 +2,8 @@ using Letter.Infrastructure.Application.Domains.Abstractions;
 using Letter.Infrastructure.Application.Domains.Entities;
 using Letter.Infrastructure.Application.Domains.Requests;
 using Letter.Infrastructure.Application.Domains.Responses;
+using System.IO;
+using System.Linq;
 using MediatR;
 
 namespace Letter.Infrastructure.Application.Handlers;
@@ -18,7 +20,7 @@ public class GetImageHandler:IRequestHandler<GetImageRequest, GetImageResponse>
     public async Task<GetImageResponse> Handle(GetImageRequest request, CancellationToken cancellationToken)
     {
         var image = _repository.Get(image => image.Id == request.ImageId).FirstOrDefault();
-        byte[] imageBytes = System.IO.File.ReadAllBytes(Environment.CurrentDirectory + $"\\{"ImageRepository"}\\+{image.FileName}");
+        byte[] imageBytes = System.IO.File.ReadAllBytes(Environment.CurrentDirectory + $"\\{"ImageRepository"}\\{image.FileName}");
         var memoryStream = new MemoryStream(imageBytes);
         if (memoryStream.Length != 0)
             return new GetImageResponse() 
